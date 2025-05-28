@@ -64,14 +64,15 @@ Built an intelligent **multi-agent architecture** to route translation requests 
 
 ## 🛠️ Technical Skillset
 
-| Domain                 | Tools & Technologies                                                                       |
-|------------------------|----------------------------------------------------------------------                      |
-| **ML/NLP**             | Hugging Face, PyTorch, PEFT (QLoRA), Transformers, BitsAndBytes                            |
-| **AI Agents**          | CrewAI, LangChain, FAISS, ChromaDB, nomic-embed-text, Retrieval-Augmented Gen., LangGraph  |
-| **Quantization**       | 8-bit Inference, ONNX Export, BitsAndBytes                                                 |
-| **Data Engineering**   | SQL, MySQL, Pandas, DataCollatorForSeq2Seq                                                 |
-| **Monitoring**         | TensorBoard, BLEU/SacreBLEU/ChrF++                                                         |
-| **Deployment**         | Chainlit, Streamlit                                                                        |
+| Domain                       | Tools & Technologies                                                                       |
+|------------------------------|----------------------------------------------------------------------                      |
+| **ML/NLP**                   | Hugging Face, PyTorch, PEFT (QLoRA), Transformers, BitsAndBytes                            |
+| **AI Agents**                | CrewAI, LangChain, FAISS, ChromaDB, nomic-embed-text, Retrieval-Augmented Gen., LangGraph  |
+| **Quantization**             | 8-bit Inference, ONNX Export, BitsAndBytes                                                 |
+| **Runtime Inference Engines  | llama.cpp & BitNet.cpp                                                                     |
+| **Data Engineering**         | SQL, MySQL, Pandas, DataCollatorForSeq2Seq                                                 |
+| **Monitoring**               | TensorBoard, BLEU/SacreBLEU/ChrF++                                                         |
+| **Deployment**               | Chainlit, Streamlit                                                                        |
 
 ---
 
