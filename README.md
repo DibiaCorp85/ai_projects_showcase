@@ -85,7 +85,7 @@ Built an intelligent **multi-agent architecture** to route translation requests 
 ## 📬 Contact
 
 - 📧 **Email:** tkevin.dibia@gmail.com 
-- 🐙 **GitHub:** [github.com/your-username](https://github.com/DibiaCorp85)  
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/kevin-t-dibia)
+- 🐙 **GitHub:** https://github.com/DibiaCorp85  
+- 🔗 **LinkedIn:** www.linkedin.com/in/kevin-t-dibia)
 
 ---
